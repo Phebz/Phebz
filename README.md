@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Pierre — aka @Phebz
 
-**Full-Stack Software Engineer**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierre_Hervé--Bazin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-hervé-bazin)  
+[![GitHub](https://img.shields.io/badge/GitHub-@Phebz-181717?style=flat&logo=github)](https://github.com/Phebz)
+
+## **Full-Stack Software Engineer**  
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
@@ -18,7 +21,7 @@ I'm a French software engineer with 5+ years of experience in startups, backend-
 
 📍 Based in Europe (FR/ES), fluent in 🇫🇷 🇬🇧, and conversational in 🇪🇸 and 🇮🇹
 
-🎮 Gamer at heart — always playing them, sometimes trying to build games concepts.
+🎮 Gamer at heart — always playing, often competing, sometimes building the games I wish existed (or at least trying 😬)
 
 ---
 
@@ -39,7 +42,7 @@ Cursor Editor • Warp Terminal • PostgreSQL • Excalidraw
 
 ## 🧃 Bonus Facts
 
-- 🎸 Full-time metalhead 🤘🏼
+- 🤘🏼 Full-time metalhead 
 - 🏋🏼‍♂️ Gym rat
 - 🤡 I'm a meme library
 - 🗣️ Also fluent in sarcasm and self-deprecating humor
@@ -52,4 +55,3 @@ Cursor Editor • Warp Terminal • PostgreSQL • Excalidraw
 
 Into gaming, game dev, weird APIs, gym stuff, or blasting metal while coding?  
 Hit me up if you wanna build something cool, learn something new from each other or just nerd out for a bit!
-
